@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 467.26 77">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 69px;
+      }
+
+      .cls-4 {
+        letter-spacing: .02em;
+      }
+
+      .cls-5 {
+        letter-spacing: .03em;
+      }
+
+      .cls-6 {
+        letter-spacing: .03em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 58.65)"><tspan class="cls-2" x="0" y="0">W</tspan><tspan class="cls-1" x="79.42" y="0">A</tspan><tspan class="cls-4" x="131.65" y="0">T</tspan><tspan class="cls-6" x="175.4" y="0">CH/</tspan><tspan class="cls-5" x="314.16" y="0">L</tspan><tspan class="cls-6" x="358.04" y="0">AB</tspan></text>
+</svg>
